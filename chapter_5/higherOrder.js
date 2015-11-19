@@ -1,8 +1,9 @@
 /*
-
-
-
-
+Chapter 5 - Higher Order functions
+  a. forEach
+  b. filter
+  c. map
+  d. reduce
 */
 
 function forEach(ary, callback) {
